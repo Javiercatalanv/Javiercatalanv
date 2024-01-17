@@ -1,6 +1,7 @@
 ##                 *Javier Catalán*
 
-Programmer and UCN student
+Programador y estudiante en Universidad Católica del Norte
+
 <!--
 **Javiercatalanv/Javiercatalanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
